@@ -90,18 +90,6 @@ Importantly, we enable to connect it to a computer via a USB-C cable, or use a D
 
 The end of the battery holder with the spring is negative pole (-), and the other is positive pole (+). <span style="color: rgb(255, 76, 0);">(AA batteries are not provided)</span>
 
-## 3. Tutorial：
-
-- [1.Mainboard_Introduction](1.Mainboard_Introduction/kidsuno_Mainboard_Introduction.md)
-
-
-- [2.Development_Environment_Configuration](2.Development_Environment_Configuration/KidsBlock_Development_Environment_Configuration.md)
-
-
-- [3.Projects](3.Projects/3.Projects.md)
-
-
-- [4.Codes](4.Codes.zip)
 
 
 
