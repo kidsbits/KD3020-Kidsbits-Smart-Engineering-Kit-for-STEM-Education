@@ -437,10 +437,10 @@ In this project, we are going to make a mini windmill.
 
 ![](media/a99ebfd517a4fc9e70470129e7410ac8.png)
 
-|  ![](media/9e7f9eb8644d663fcb833f43f136f90c.jpeg)  x31 ![](media/1ede3163cfee4dd67d3a2b54a24335cf.png) |             ![](media/5020b404d50a06b7e3b0a9de3b116f1f.png) |
-|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+|![](media/9e7f9eb8644d663fcb833f43f136f90c.jpeg) x31 |![](media/1ede3163cfee4dd67d3a2b54a24335cf.png)|![](media/5020b404d50a06b7e3b0a9de3b116f1f.png)|
+|------------------------------------------|---------------------------------|----|
 
-|![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) x2 |![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1 |![](media/4cadb2058272150134e7806b3a76d68a.jpeg)x1 |   
+|![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) x2 |![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1 |![](media/4cadb2058272150134e7806b3a76d68a.jpeg)x1 |  
 |-------------------------|----------------|------------------------------|
 |   ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1  | ![](media/b560e1a6691b6f0cbe9cd93464b4cd7a.png)  |  ![](media/892431d1bcadd9088cc56b1eceee12d6.jpeg) |   
 
