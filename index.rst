@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: KD3020 Kidsbits Smart Engineering Kit
 
    home.md
    kidsblock/kidsblock.md
