@@ -30,9 +30,9 @@ It is well known that seesaw is sought-after among children. Usually, two childr
 
 Note：The color of the building blocks is subject to the actual object.
 
-| ![](media/05fbf86735372d9494dea3b2deb980a6.jpeg) x4 |    ![](media/97d1a6997afb148a4753c2efe57bca96.jpeg) x3 |
-|---------------------------------------------------------|--------------------------------------------------------|
-|    ![](media/bd486bbbd311e3f3433f4d5dba19346e.png)      |                                                        |
+| ![](media/05fbf86735372d9494dea3b2deb980a6.jpeg) x4 <br> ![](media/97d1a6997afb148a4753c2efe57bca96.jpeg) x3 |     
+|---------------------------------------------------------|
+|    ![](media/bd486bbbd311e3f3433f4d5dba19346e.png)      |                                                        
 
 ![](media/904b8fe0111d8c19a9c9c6686ea11933.png)
 
@@ -43,7 +43,7 @@ Note：The color of the building blocks is subject to the actual object.
 |---------------------------------------------------------|--------------------------------------------------------|
 |     ![](media/9f3583f1699c321f208bac3a49ea7a3a.png)   |    ![](media/6739244d2d6163275810755e3c8d6be4.jpeg)                                                     |                                                                  
 
-|   ![](media/f73cf85d78b170310e47b496f593f6eb.jpeg) x4  |   <br> ![](media/ef48ef8afcb25ed8a3fff7f78543dc74.png)   |
+|   ![](media/f73cf85d78b170310e47b496f593f6eb.jpeg) x4  |    ![](media/ef48ef8afcb25ed8a3fff7f78543dc74.png)   |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 
 |    ![](media/2cc71df0b3b71e9f90e691cd6ba5a06d.jpeg)  x2 |   ![](media/6c9c74d58a6efe84e1d2c63e7b1786a2.jpeg) x2 |               
@@ -187,7 +187,7 @@ Mixer is a kind of construction engineering machinery, which is mainly used for 
 | ![](media/77400d0e0672bcc8737c6081b3b2a3cb.jpeg) <br>  ![](media/6a4b1d6bb23fc096212f3307646fa221.jpeg) x1 |
 |--------------------------------------------------------------------------------------------------------|
 
-|    ![](media/8a89ef4c5dd51a602e6d5fe2cd558692.jpeg) x2(5 holes)  | <br>  ![](media/3e9bd7fe9714a366094ea54c0a0a1ba2.png) |
+|    ![](media/8a89ef4c5dd51a602e6d5fe2cd558692.jpeg) x2(5 holes)  | ![](media/3e9bd7fe9714a366094ea54c0a0a1ba2.png) |
 |---------------------------------------------------------|------------------------------------------------------------|
 
 | ![](media/045f6908c3919b7efd873e7ab13c1e55.png) <br>  ![](media/2c273b63529de7112246e33bee1299ec.jpeg) x4  <br>   ![](media/c03997b19c55b3a41c4993f14381f867.jpeg) |
@@ -244,7 +244,7 @@ Mixer is a kind of construction engineering machinery, which is mainly used for 
 ![](media/a5d578ee01b2c551c220eee2b4e84fda.png)
 
 
- 4. Read the Value of Digital Capacitive Touch Sensor
+ 1. Read the Value of Digital Capacitive Touch Sensor
 
 ![Img](media/2-3.png)
 
