@@ -454,9 +454,9 @@ In this project, we are going to make a mini windmill.
 |  ![](media/55506bac4b8cb710b2b6515aeac54a0b.jpeg)x2  |       ![](media/ebc2195700443fb7175b86a95e3c0ab2.jpeg)       | ![](media/c94edf8dcd09cdfc7a34a45f8e9a3444.jpeg)  |
 |------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---|
 
-|   ![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg)      x2(5 holes)                                                       |    ![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg)x2 |
+|   ![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg)      x2(5 holes)  |    ![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg)x2 |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| ![](media/76e0194a19b2211629f286a6d011cbe6.png)  ![](media/7c96106ccfcb5261444ebea32505e80c.jpeg) |                                                     |
+| ![](media/76e0194a19b2211629f286a6d011cbe6.png)   |     ![](media/7c96106ccfcb5261444ebea32505e80c.jpeg)                                                |
 
 |   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) | ![](media/309830339f9f648f3411239e6c9991f4.jpeg) |     
 |---------------------------------|----------------|
@@ -469,12 +469,12 @@ In this project, we are going to make a mini windmill.
 
 
 
-|  ![](media/e7839242351c7a078436b4f604116230.jpeg) |  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |
+|  ![](media/e7839242351c7a078436b4f604116230.jpeg) x1 |  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |
 |---------------------------------------------------|------------------------------------------------------|
 | ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |                                                      |
 
 
-| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)  ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2 |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 |    
+| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)   |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 <br>  ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2|    
 |------------------------------------------------|--------------------------------------------------------|
 | ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |    ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes)                                                  
 
