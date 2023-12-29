@@ -1,4 +1,4 @@
-# KidsBlock Development Environment Configuration
+# Getting Started With KidsBlock 
 
 
 Link for the KidsBlock Development Environment Configuration：[https://kidsblocksite.readthedocs.io/en/latest/](https://kidsblocksite.readthedocs.io/en/latest/)
