@@ -464,7 +464,7 @@ In this project, we are going to make a mini windmill.
 
 |   ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1 |   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x4 |    ![](media/266daaafc7a3477ecd32765a43121609.jpeg)  x4 | 
 |---------------------------------|-------------------------------|------------------------------------|
-| Mind the position of holes |  ![](media/12313c67062d51c539f124565e12e628.png) x4 | ![](media/63178693f0e60738bab5aaf13a07f0a8.png)  |     
+| Mind the position of holes |  ![](media/63178693f0e60738bab5aaf13a07f0a8.png) |   |     
                                                                                                                         
 
 
