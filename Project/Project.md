@@ -648,10 +648,99 @@ When it comes to the Ferris wheel, we must be familiar with it. Sitting on the F
 
  3. Installation 
 
-Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
+| ![](media/project-4.png) |
+|----------------------------|
+
+|![](media/6a4b1d6bb23fc096212f3307646fa221.jpeg)x1|![](media/614d8ec39aaa691fca6ab282df5e449a.jpeg) x2(15 holes)|
+|-------------------------------|-----------------------------|
+|   ![](media/823ff220dde3887bf0121057b0af1ba1.png) |                                                      |
+
+|   ![](media/db633ba29fe3c9f3dd5fd4f5859b44fa.jpeg) x2(15 holes)|    ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x2|
+|----------------------------------------------------|-----------------------------------------------------|
+| ![](media/44087a902db21bfb44a97d49e8f2b314.png)    |   ![](media/63a6bf14fb330ea5699fa5509d6a2495.png)   |
+
+|    ![](media/7e9169f3536bc24bf7af466016ae2cf6.jpeg)     x1(9.6cm)       |   ![](media/3acdec3ec66222fcef4368b59615f9d2.jpeg)x1 |         
+|----------------------------------------------------------------|----------------------------------------------------|
+|    ![](media/db04b0fb5b858cff9db039102b18f4f9.jpeg) |    ![](media/d1aa72d0e53ec9654c7677653f7379a3.png)                                                |                                                        
+
+|  ![](media/3acdec3ec66222fcef4368b59615f9d2.jpeg)x4 |   ![](media/118befc13ffb0a6f557aa97741abcd0b.jpeg) x3(2.4cm) <br> ![](media/d3601c7d73c97a8016851cb04e078e9a.jpeg)x1(3.2cm)|     
+|---------------------------------------------------|----------------------------------------------------|
+| ![](media/695fa83a4907a07b1278adf79e6a2311.jpeg)  | ![](media/ca66e869f3d3805376550a0a3e15d510.png)    |        
 
 
- 4. Play Music
+|   ![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg) x5 |     ![](media/3acdec3ec66222fcef4368b59615f9d2.jpeg) x4 |
+|-------------------------------------------------------|---------------------------------------------------------|
+| ![](media/1d809498fffe2d6fdc5aef92ec563c09.jpeg)      | ![](media/bc6b0d6284b90e47c8bd4db5e7caebca.png)         |
+
+
+|  ![](media/b918b7ae18151d7885e77db438d53227.jpeg)  x2  |  ![](media/1d039e23c4cb48bf874a92cc490bfbf1.jpeg) x1(5 holes) |
+|-----------------------------------------------------|----------------------------------------------------|
+|![](media/2ffb20f9a0cddd4a4bca203d8372a14f.jpeg) | ![](media/a2504008bd5bcbe36ceb2a553b2e866d.jpeg) |
+
+|![](media/b58e221891a2d67d2f450436778a67aa.jpeg) x2 |![](media/1d039e23c4cb48bf874a92cc490bfbf1.jpeg) x1(5 holes )|
+|---------------------------------------|------------------------------------------|
+|      ![](media/4495d8020133356b62fe3c6ca37c65ca.jpeg) |   ![](media/b92cee79d872939dc69cf755a5d09ef5.png)   |
+
+| ![](media/70d2baa181846aaa3e032f2b895857e2.jpeg) x1 |   ![](media/23e9c02112ef8f3e360a17ef7dabbba3.jpeg)  x1 <br> ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x2|                  
+|---------------|---------------------------|
+| ![](media/5e9d3ce96ff450b24563771ea07bbc8a.jpeg)  |  ![](media/47c2c1d5b571c297ae81fd4232cf0342.png)  |    
+
+|   ![](media/e1f05970e14eb461efc336452545f1b1.png) x1 |    ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x8 |     
+|------------------------------------------------------|--------------------------------------------------------|
+|   Note the hole positions ![](media/26d70f65d8a7f6b7f21771ef4e951053.png)   |  ![](media/e00daffe0c0c17efa5cd0eefea4b1848.jpeg)                                                      |                                                                             
+
+|  ![](media/a6e2899558b858ab9944fed0a91c3b00.jpeg) x4(11 holes)| | 
+|-------------------------|-------------------|
+|![](media/cee6f103704abb6b53c843f421e71be5.jpeg)|![](media/6ace8a68f3c4a3fee14464735d855c69.jpeg)|
+
+![](media/80d569b1547e441108a2841090ad4401.png)
+
+|   ![](media/d3601c7d73c97a8016851cb04e078e9a.jpeg)  x4(3.2cm) |
+|---------------------------------------------------------------|
+| ![](media/a44f3f2a7fbb56d10369d61fdc326b2d.png)               |
+
+
+| ![](media/e1f05970e14eb461efc336452545f1b1.png)x1  | ![](media/5f86fa27c71e3c18c5b7133dcd593bd0.png)  x4  |
+|-------------------------|---|
+| ![](media/6cedf924c49a9c13ebf0142ffd50b0f0.jpeg)             | ![](media/209108ea06ccbe11a84c92f6d6380a51.jpeg)  |
+
+|   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x8 |
+|-------------------------------------------------------|
+| ![](media/bc6c063a6600ba0bb26c04833ad9559b.png)       |
+
+
+|    ![](media/a6e2899558b858ab9944fed0a91c3b00.jpeg) x4(11 holes)     |  |
+|----------------------------------------|------------|
+ |  ![](media/6200ec642ddf4df90ee56d8526cc2649.jpeg)             |   ![](media/e9c6001d902cbcaa9b9700aa5a431b7d.jpeg)                          |
+
+|  ![](media/9ae7e15bfa62e8fed8b6458deca13301.jpeg)x1(15 holes) |   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x1|
+|--------------------------------------|----------------------------------------------------|
+|    ![](media/6aabb5c225184383ab542d2dc7d4ad71.png)                                  |    ![](media/73ac86ecd5cf8ec1cbca10f26cc86623.jpeg)                                                |
+
+|   ![](media/926261996f09f5ed7297092ee9e24a54.png) x2(15 holes)  |   ![](media/4e666f5cfb7482d72b4b9cb56d235971.png) |
+|--------------------------------------------------------------------|-----------------------------------------------------|
+
+|    ![](media/b8fc5e068dfb5f52a741891a103e87b5.jpeg)   x1(15 holes)                                                               |    ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x1 <br>  ![](media/3acdec3ec66222fcef4368b59615f9d2.jpeg) x2|   
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+|      ![](media/4479371b2fdaa324a7489dd5748e5a89.jpeg) |  ![](media/7812b50108db7ce1de4262dda91963c5.png)                                                   |                                                     |
+
+|    ![](media/c6044c36481625561b765282004fa14f.jpeg) x4 |
+|--------------------------------------------------------|
+| ![](media/4a5c82c35d7bac9c2019b678dee6a000.png)        |
+
+
+|    ![](media/b58e221891a2d67d2f450436778a67aa.jpeg)   x4               |     ![](media/2ea3a87b6b835c4003e99c4cebbd787d.jpeg) x1(7 holes)|             
+|---------------------------------------------------------------------|------------------------------------------------------|
+|       ![](media/487a9fca1265197e486fb70cb232a4f6.png) |  ![](media/59860c1645d4c75ae8cbe3907a0d9998.png)                                                    |                                                                
+
+|     ![](media/83ac4c75c5912a376eb5da4793686609.jpeg) x1 |    ![](media/6cb94ed16e7e422ce7ed5e8e34a61a3a.png) x1 |                
+|---------------------------------------------------------|-------------------------------------------------------|
+| ![](media/f816202f7f67d72a2b1e0d0cea31d1ae.jpeg)        |    ![](media/18fb455724bf45791c5b6add6e6efa53.png)                                                   |                                                              
+
+![](media/8be7563bd111e2b7c70db669e7b92c1d.png)
+
+
+ 1. Play Music
 
 ![Img](media/4-3.png)
 
