@@ -471,14 +471,14 @@ In this project, we are going to make a mini windmill.
 
 
 
-|  ![](media/e7839242351c7a078436b4f604116230.jpeg) x1 <br> ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |   
+|  ![](media/e7839242351c7a078436b4f604116230.jpeg) x1  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |   
 |---------------------------------------------------|
 | ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |                                                      
 
 
-| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)   |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 <br>  ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2|    
+| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)   |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 <br>![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2|    
 |------------------------------------------------|--------------------------------------------------------|
-| ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |    ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes)                                                  
+| ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |    ![](media/d9214a73238919462898698f3b5b7207.jpeg) <br>x1(7 holes)                                                  
 
 |   ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes)|  ![](media/0507b0054c774a33cad959e918b0c561.jpeg)   x2     |
 |----------------------------------------------------|-------------------------------------------------------|
@@ -653,7 +653,7 @@ When it comes to the Ferris wheel, we must be familiar with it. Sitting on the F
 | ![](media/project-4.png) |
 |----------------------------|
 
-|![](media/6a4b1d6bb23fc096212f3307646fa221.jpeg)x1|![](media/614d8ec39aaa691fca6ab282df5e449a.jpeg) x2(15 holes)|
+|![](media/6a4b1d6bb23fc096212f3307646fa221.jpeg)x1|![](media/614d8ec39aaa691fca6ab282df5e449a.jpeg)<br> x2(15 holes)|
 |-------------------------------|-----------------------------|
 |   ![](media/823ff220dde3887bf0121057b0af1ba1.png) |                                                      |
 
