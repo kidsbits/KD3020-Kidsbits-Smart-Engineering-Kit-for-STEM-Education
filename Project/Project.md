@@ -5,13 +5,13 @@
 ![1-1](media/1-1.jpg)
 
 
-### 1. Overview
+ 1. Overview
 
 It is well known that seesaw is sought-after among children. Usually, two children sit on both ends of the seesaw and step on the ground in turn to make one end rise and the other fall. However, in this project, we will work to make a seesaw that can rise and fall automatically.
 
 
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/360.png)|![Img](media/USB.png)|![Img](media/Lego11.png)|
 | :--: | :--: | :--: | :--: | 
@@ -19,11 +19,11 @@ It is well known that seesaw is sought-after among children. Usually, two childr
 
 ![Img](media/1-2.png)
 
-### 3. Make A Seesaw
+ 3. Make A Seesaw
 
 ![Img](media/1-3.png)
 
-### 4. Installation 
+ 4. Installation 
 
 |   ![](media/project-1.png) |
 |-------------------------------------------------------|
@@ -98,15 +98,15 @@ Note：The color of the building blocks is subject to the actual object.
 ![](media/2b6b0a79ed45df2fc79e616fc06b3664.png)
 
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/1-DD.png)
 
-#### Step2：Add Servo
+ Step2：Add Servo
 
 ![Img](media/11.png)
 
@@ -121,7 +121,7 @@ Add **Servo** Instruction Block
 
 ![Img](media/14.png)
 
-#### Step3: Description of Building Blocks
+ Step3: Description of Building Blocks
 
 ![Img](media/15.png)
 
@@ -131,7 +131,7 @@ Set the angle value and delay to the specified pin. When the angle value is 90, 
 
 ![Img](media/1-4.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -145,13 +145,13 @@ Set the angle value and delay to the specified pin. When the angle value is 90, 
 
 ![Img](media/1-5.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then the seesaw can rise and fall automatically.
 
 ![1-9](media/1-9.png)
 
-### 6. Expansion Project
+ 6. Expansion Project
 
 ![Img](media/1-6.png)
 
@@ -165,11 +165,11 @@ The sample code is below：
 
 ![2-1](media/2-1.png)
 
-### 1. Overview
+ 1. Overview
 
 Mixer is a kind of construction engineering machinery, which is mainly used for mixing some building materials such as cement, sand and gravel. In this project, we will seek to design a mixer.
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Capacitive.png)|![Img](media/360.png)|
 | :--: | :--: | :--: |
@@ -179,7 +179,7 @@ Mixer is a kind of construction engineering machinery, which is mainly used for 
 
 ![Img](media/2-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 | ![](media/project-2.png) |
 |----------------------------|
@@ -244,19 +244,19 @@ Mixer is a kind of construction engineering machinery, which is mainly used for 
 ![](media/a5d578ee01b2c551c220eee2b4e84fda.png)
 
 
-### 4. Read the Value of Digital Capacitive Touch Sensor
+ 4. Read the Value of Digital Capacitive Touch Sensor
 
 ![Img](media/2-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step 1：Wiring Diagram
+ Step 1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the digital capacitive touch sensor to the No.2 interface, the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/2-DD.png)
 
-#### Step 2: Description of Building Blocks
+ Step 2: Description of Building Blocks
 
 ![Img](media/21.png)
 
@@ -286,7 +286,7 @@ It is a delay module and 1 can be altered.
 
 It is a forever module, it will execute one code forever.
 
-#### Step 3：Write the Program
+ Step 3：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -320,7 +320,7 @@ It is a forever module, it will execute one code forever.
 
 ![Img](media/37.png)
 
-#### Step 4：Test Result
+ Step 4：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600. Then the serial monitor will print the value read by the digital capacitive touch sensor. 
 
@@ -328,29 +328,29 @@ When your finger touches the plum-shaped metal sensing area on the sensor, it wi
 
 ![Img](media/3777.png)
 
-### 6. Digital Capacitive Touch Sensor Controls Mixer to Rotate
+ 6. Digital Capacitive Touch Sensor Controls Mixer to Rotate
 
 ![Img](media/2-4.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Description of Building Blocks
+ Step1: Description of Building Blocks
 
 ![Img](media/3888.png)
 
 It is a conditional statement code executing <span style="color: rgb(255, 76, 65);">if-then-else</span> function: If the logical judgment statement in ![Img](media/39.png) is satisfied, the code statement below **then** is executed, otherwise, the code below **else** is executed.
 
-#### Step2：Flow Chart
+ Step2：Flow Chart
 
 Set the 360° servo angle to 90°. When you press (or touch) the metal sensing area on the sensor with your finger, the servo and the mixer will rotate, otherwise they won't rotate.
 
 ![Img](media/40.png)
 
-#### Step3：Add **Servo** Instruction Block 
+ Step3：Add **Servo** Instruction Block 
 
 ![Img](media/42.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ① Find building blocks
 
@@ -376,13 +376,13 @@ Set the 360° servo angle to 90°. When you press (or touch) the metal sensing a
 
 ![Img](media/49.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up. When you press (or touch) the metal sensing area on the sensor with your finger, the servo and the mixer will rotate, otherwise they won't rotate.
 
 ![2-9](media/2-9.png)
 
-### 10. Expansion Project
+ 10. Expansion Project
 
 ![Img](media/2-7.png)
 
@@ -396,11 +396,11 @@ The sample code is below：
 
 ![3-1](media/3-1.png)
 
-### 1. Overview
+ 1. Overview
 In this project, we are going to make a mini windmill.
 
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Rotary.png)|![Img](media/360.png)|
 | :--: | :--: | :--: |
@@ -410,120 +410,115 @@ In this project, we are going to make a mini windmill.
 
 ![Img](media/3-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 | ![](media/project-3.png) |
 |----------------------------|
 
-|    ![](media/baa553c66a5083fe4744c9a930e51fc1.png) x1|    ![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg) x2(5 holes)|     ![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg) x4|
-|----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
-|                                     |                                                     |                                                      |
-|   ![](media/d7fbe5f856e728c527edae2ce335e0fe.png)  |  ![](media/6126caf7a2536038fa981f0cbee696fc.jpeg)   |                                                      |
+|![](media/baa553c66a5083fe4744c9a930e51fc1.png) x1|![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg) x2(5 holes)|![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg) x4|
+|----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|                                                                                                                                       
+|![](media/d7fbe5f856e728c527edae2ce335e0fe.png)  |  ![](media/6126caf7a2536038fa981f0cbee696fc.jpeg)   |                                                      |
 
-|    ![](media/0507b0054c774a33cad959e918b0c561.jpeg)  x2                                                           |    ![](media/55f6bfdfed147779aa5b15d85abecdf1.png)x1(15 holes) |
+|![](media/0507b0054c774a33cad959e918b0c561.jpeg)x2 | ![](media/55f6bfdfed147779aa5b15d85abecdf1.png)x1(15 holes) |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| ![](media/49e4b14e9b4387bbcde0c6d28eebda84.jpeg)  ![](media/5f2f1dbf487b667ee6467d8495efc365.png) |                                                    |
+| ![](media/49e4b14e9b4387bbcde0c6d28eebda84.jpeg)   | ![](media/5f2f1dbf487b667ee6467d8495efc365.png)                                                   |
 
-|    ![](media/78518e97161bdf8625a935fdf9214dd0.jpeg)   x1(11 holes)                                                            | ![](media/55506bac4b8cb710b2b6515aeac54a0b.jpeg) x2|
+|    ![](media/78518e97161bdf8625a935fdf9214dd0.jpeg)   x1(11 holes)  | ![](media/55506bac4b8cb710b2b6515aeac54a0b.jpeg) x2|
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| ![](media/1d4a3c383028f105b023bc1c30add0f3.jpeg)   ![](media/09807fcbe60ade81e133732e527dcb0a.jpeg) |                                                  |
+| ![](media/1d4a3c383028f105b023bc1c30add0f3.jpeg)  | ![](media/09807fcbe60ade81e133732e527dcb0a.jpeg)                                                 |
 
-|  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg)     x4               |   ![](media/d54812778b9ca840fdbabed0894e55ac.jpeg) x2(6.4cm)|   ![](media/08456c4877eff44036f85a4259fe94a8.jpeg) x1(4cm)|      ![](media/0a76bd5a9ea559bbf0df9a94637ddae1.jpeg) |   |
-|----------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|---|
-|    ![](media/58d098b160e2bb280f63e6c494240ced.png) |                                                    |                                                    |                                                       |   |
+|  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg)x4 |![](media/d54812778b9ca840fdbabed0894e55ac.jpeg) x2(6.4cm)|![](media/08456c4877eff44036f85a4259fe94a8.jpeg) x1(4cm)|          
+|--------------------------|-----------------------------------|-------------------------------------------------------|
+|![](media/58d098b160e2bb280f63e6c494240ced.png) | ![](media/0a76bd5a9ea559bbf0df9a94637ddae1.jpeg) |      |         
 
-|   ![](media/63be0f95f8ec8227b16d4f323279f55f.jpeg)x2 |  ![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1 |  ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1 |            ![](media/405ba65ac96de4edf720fbc6dcaeed52.jpeg) |   |
-|----------------------------------------------------|---------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------|---|
-|                                                |                                                   |                                                      |                                                             |   |
-| ![](media/3eb7c07003ac1053f365b95c939f2b52.jpeg)   |                                                   |                                                      |                                                             |   |
+| ![](media/63be0f95f8ec8227b16d4f323279f55f.jpeg)x2 |![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1|![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1 |    
+|----------------------------------------------------|--------------------------------------------------|----------------------------------------------------|   
+| ![](media/3eb7c07003ac1053f365b95c939f2b52.jpeg) | ![](media/405ba65ac96de4edf720fbc6dcaeed52.jpeg)   |                     |             
 
 ![](media/a99ebfd517a4fc9e70470129e7410ac8.png)
 
 |  ![](media/9e7f9eb8644d663fcb833f43f136f90c.jpeg)  x31 ![](media/1ede3163cfee4dd67d3a2b54a24335cf.png) |             ![](media/5020b404d50a06b7e3b0a9de3b116f1f.png) |
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 
-|   ![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) x2         |  ![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1 |  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg)x1 | ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1|        ![](media/892431d1bcadd9088cc56b1eceee12d6.jpeg) |
-|-------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|--------------------------------------------------|---------------------------------------------------------|
-|     ![](media/b560e1a6691b6f0cbe9cd93464b4cd7a.png) |                                                   |                                                   |                                                  |                                                         |
+|![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) x2 |![](media/6695acf2c4b2eb2501e9ec86e4a673d6.jpeg)x1 |![](media/4cadb2058272150134e7806b3a76d68a.jpeg)x1 |   
+|-------------------------|----------------|------------------------------|
+|   ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1  | ![](media/b560e1a6691b6f0cbe9cd93464b4cd7a.png)  |  ![](media/892431d1bcadd9088cc56b1eceee12d6.jpeg) |   
 
-|  ![](media/9e7f9eb8644d663fcb833f43f136f90c.jpeg)  x56 ![](media/ef1fed018fed5ea2448b12563c550664.png) |      ![](media/8a4a64988e9b663d5dd7a7b9b6fe7b2f.png) |   |
+|  ![](media/9e7f9eb8644d663fcb833f43f136f90c.jpeg)  x56  |  ![](media/ef1fed018fed5ea2448b12563c550664.png)    |   ![](media/8a4a64988e9b663d5dd7a7b9b6fe7b2f.png) |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------|---|
 
-| ![](media/4b08d36c2e14d5b9e5801039ef8c9e2d.png) |![](media/2342813a37d4c950c3618e60154de912.jpeg)  x2 |  ![](media/55f6bfdfed147779aa5b15d85abecdf1.png)x1(15 holes) |   ![](media/78518e97161bdf8625a935fdf9214dd0.jpeg)x1(11 holes) |  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1|
-|--------------------------------------------|----------------------------------------------------------|--------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-|                                                                                                      |                        |                                                    |                                                   |
-| ![](media/47bba53c7b8e710e533cbe5b49144ed3.jpeg)                                                     |                                                  |                                                    |                                                   |
+| ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |![](media/2342813a37d4c950c3618e60154de912.jpeg)  x2 |  ![](media/55f6bfdfed147779aa5b15d85abecdf1.png)x1(15 holes) |   
+|-------------------------|---------------------|------------------------------|
+| ![](media/78518e97161bdf8625a935fdf9214dd0.jpeg)x1(11 holes) | ![](media/4b08d36c2e14d5b9e5801039ef8c9e2d.png) | ![](media/47bba53c7b8e710e533cbe5b49144ed3.jpeg)                                                                                                     
 
-|  ![](media/55506bac4b8cb710b2b6515aeac54a0b.jpeg) ![](media/ebc2195700443fb7175b86a95e3c0ab2.jpeg)x2 |             ![](media/c94edf8dcd09cdfc7a34a45f8e9a3444.jpeg) |   |
+|  ![](media/55506bac4b8cb710b2b6515aeac54a0b.jpeg)x2  |       ![](media/ebc2195700443fb7175b86a95e3c0ab2.jpeg)       | ![](media/c94edf8dcd09cdfc7a34a45f8e9a3444.jpeg)  |
 |------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---|
 
-|   ![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg)                                                             |    ![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg) |
+|   ![](media/a3d8da47ec3bfdeb67509a3befb5936a.jpeg)      x2(5 holes)                                                       |    ![](media/55dfcc9e1ff22fd43c55ea0004a7039c.jpeg)x2 |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| ![](media/76e0194a19b2211629f286a6d011cbe6.png)x2(5 holes) x4 ![](media/7c96106ccfcb5261444ebea32505e80c.jpeg) |                                                     |
+| ![](media/76e0194a19b2211629f286a6d011cbe6.png)  ![](media/7c96106ccfcb5261444ebea32505e80c.jpeg) |                                                     |
 
-|   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x2 |   ![](media/309830339f9f648f3411239e6c9991f4.jpeg) |                  ![](media/f0b49080f223f915ae2d728e6d9f5aba.png) |   |
-|-------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|---|
-|   ![](media/cae1f7eaa0238e38266b14ed43dcfc9f.png)     |                                                    |                                                                  |   |
+|   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) | ![](media/309830339f9f648f3411239e6c9991f4.jpeg) |     
+|---------------------------------|----------------|
+|   ![](media/cae1f7eaa0238e38266b14ed43dcfc9f.png)     | ![](media/f0b49080f223f915ae2d728e6d9f5aba.png)  |        
 
-|   ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1 |   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x4 |    ![](media/266daaafc7a3477ecd32765a43121609.jpeg)  x4 | Mind the position of holes ![](media/016bd2decf8d007ba54a87d94796d9e4.png) ![](media/12313c67062d51c539f124565e12e628.png) |
-|-------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| ![](media/63178693f0e60738bab5aaf13a07f0a8.png)       |                                                       |                                                         |                                                                                                                            |
-|                                                       |                                                       |                                                         |                                                                                                                            |
+|   ![](media/b3795d891e8c10261103726ec063b9e0.jpeg) x1 |   ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x4 |    ![](media/266daaafc7a3477ecd32765a43121609.jpeg)  x4 | 
+|---------------------------------|-------------------------------|------------------------------------|
+| Mind the position of holes |  ![](media/12313c67062d51c539f124565e12e628.png) x4 | ![](media/63178693f0e60738bab5aaf13a07f0a8.png)  |     
+                                                                                                                        
 
-|          x4 |   |
-|-------------|---|
+
 
 |  ![](media/e7839242351c7a078436b4f604116230.jpeg) |  ![](media/4cadb2058272150134e7806b3a76d68a.jpeg) x1 |
 |---------------------------------------------------|------------------------------------------------------|
 | ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |                                                      |
-|                                                   |                                                      |
 
-| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)  ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2 |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 |   ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes) |
-|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------|
 
-|   ![](media/d9214a73238919462898698f3b5b7207.jpeg) |  ![](media/0507b0054c774a33cad959e918b0c561.jpeg)     |
+| ![](media/9ff19773f0b4b27dc5eace2314f51a91.png)  ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2 |   ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 |    
+|------------------------------------------------|--------------------------------------------------------|
+| ![](media/ab1b4bb2c6292f3ae14813cd8cf1280c.png)   |    ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes)                                                  
+
+|   ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes)|  ![](media/0507b0054c774a33cad959e918b0c561.jpeg)   x2     |
 |----------------------------------------------------|-------------------------------------------------------|
-| x1(7 holes) x2                                     |                                                       |
 |    ![](media/3f15ce9b0512cf4cb746fe2647a6ac5d.png) |      ![](media/f4ed4eb82800c548f275b76b35205104.jpeg) |
 
-|  ![](media/0507b0054c774a33cad959e918b0c561.jpeg) |   ![](media/d9214a73238919462898698f3b5b7207.jpeg)   |
+|  ![](media/0507b0054c774a33cad959e918b0c561.jpeg)x4 |   ![](media/d9214a73238919462898698f3b5b7207.jpeg) x2(7 holes)    |
 |---------------------------------------------------|------------------------------------------------------|
-| x4 x2(7 holes)                                    |                                                      |
 |  ![](media/8215c4086c722a4f49a8819152c4ad11.png)  |      ![](media/a0f7ebc1e94a4fa2ddbf37a0ce2580be.png) |
 
-|  ![](media/fbcb1e9600b349d9abffbc9d10cca842.jpeg) x1 |  ![](media/6f48ecf00fdd0bb978978c8686726699.jpeg) x1 |   |
-|------------------------------------------------------|------------------------------------------------------|---|
-|  ![](media/15a966c93c308b5de5fecb3384be42fe.png)     |                                                      |   |
+|  ![](media/fbcb1e9600b349d9abffbc9d10cca842.jpeg) x1 |  ![](media/6f48ecf00fdd0bb978978c8686726699.jpeg) x1 |   
+|------------------------------------------------------|------------------------------------------------------|
+|  ![](media/15a966c93c308b5de5fecb3384be42fe.png)     |                                                      |   
 
 |   ![](media/24ee0bb4073fcdf1960e7facc8851507.jpeg)  x2 |    ![](media/ce399c81bc5ae006d3d07ffda81d04d6.jpeg)  x1 |   ![](media/d9214a73238919462898698f3b5b7207.jpeg) x1(7 holes) |
 |--------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
 |    ![](media/383c6db3a2c089193002ceffc65a8b88.png)     |    ![](media/e6c51b8566372339c5eed8c18668307e.png)      |                                                                |
 
-|   ![](media/42fa80d929c99b740c7bfa5b994eca93.jpeg) x1    ![](media/38eeccf68feb17611d6eaee7b959c466.jpeg) |                ![](media/fe38f7d45b6215917cdd52ec8e7d208b.png) |   |
+|   ![](media/42fa80d929c99b740c7bfa5b994eca93.jpeg) x1     |   ![](media/38eeccf68feb17611d6eaee7b959c466.jpeg)              | ![](media/fe38f7d45b6215917cdd52ec8e7d208b.png)  |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---|
 
 ![](media/bffbf87ce9e36e6aa2c1d8c028652953.png)
 
 
-### 4. Read the Value of Rotary Potentiometer
+ 1. Read the Value of Rotary Potentiometer
 
 ![Img](media/3-17.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step 1：Wiring Diagram
+ Step 1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the rotary potentiometer to the No.7 interface, the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/3-DD.png)
 
-#### Step 2: Description of Building Blocks
+ Step 2: Description of Building Blocks
 
 ![Img](media/Z34.png)
 
 This block is used to read analog value of the specified pin (range: 0~1023).
 
-#### Step 3：Write the Program
+ Step 3：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -557,19 +552,19 @@ This block is used to read analog value of the specified pin (range: 0~1023).
 
 ![Img](media/Z37.png)
 
-#### Step 4：Test Result
+ Step 4：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600. Then the serial monitor will print the value read by the rotary potentiometer. When the knob on the potentiometer is rotated in one direction, the analog value will gradually increase; otherwise, it will decrease.
 
 ![Img](media/Z38.png)
 
-### 6. Rotary Potentiometer Controls Windmill to Rotate
+ 6. Rotary Potentiometer Controls Windmill to Rotate
 
 ![Img](media/3-18.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Description of Building Blocks
+ Step1: Description of Building Blocks
 
 ![Img](media/Z39.png)
 
@@ -581,17 +576,17 @@ Here you need to use "<span style="color: rgb(255, 169, 0);">mapping module</spa
 
 ![Img](media/3-19.jpg)
 
-#### Step2：Flow Chart
+ Step2：Flow Chart
 
 Set the 360° servo angle to 90°. When the knob on the potentiometer is rotated, the analog value of the potentiometer is mapped to the angle of the servo to control its speed.
 
 ![Img](media/Z40.png)
 
-#### Step3：Add **Servo** Instruction Block 
+ Step3：Add **Servo** Instruction Block 
 
 ![Img](media/42.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ①  Find building blocks
 
@@ -617,13 +612,13 @@ Set the 360° servo angle to 90°. When the knob on the potentiometer is rotated
 
 ![Img](media/Z45.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then rotate the knob on the potentiometer by hand, and the speed of the windmill will gradually increase.
 
 ![Img](media/3-23.png)
 
-### 8. Expansion Project
+ 8. Expansion Project
 
 ![Img](media/3-21.png)
 
@@ -637,11 +632,11 @@ The sample code is below：
 
 ![4-1](media/4-1.png)
 
-### 1. Overview
+ 1. Overview
 
 When it comes to the Ferris wheel, we must be familiar with it. Sitting on the Ferris wheel, we are able to overlook the surrounding scenery from a height. Thus, in this project, we will work to make a Ferris wheel that can be viewed in the rain.
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Steam.png)|![Img](media/Buzzer.png)|![Img](media/360.png)|
 | :--: | :--: | :--: | :--: |
@@ -651,28 +646,28 @@ When it comes to the Ferris wheel, we must be familiar with it. Sitting on the F
 
 ![Img](media/4-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
 
 
-### 4. Play Music
+ 4. Play Music
 
 ![Img](media/4-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the steam sensor to No.7 interface, passive buzzer to No.6 interface and the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/4-DD.png)
 
-#### Step2: Write《Twinkle, twinkle, little star!》
+ Step2: Write《Twinkle, twinkle, little star!》
 
 ![Img](media/4-4.png)
 
-#### Step3：Add Passive Buzzer Command Module
+ Step3：Add Passive Buzzer Command Module
 
 ![Img](media/D41.png)
 
@@ -686,7 +681,7 @@ Add “**Passive Buzzer**” Instruction Block
 
 ![Img](media/D43.png)
 
-#### Step4: Description of Building Blocks
+ Step4: Description of Building Blocks
 
 ![Img](media/D44.png)
 
@@ -705,7 +700,7 @@ Set the passive buzzer to play specific music to the specified pin.
 Set the passive buzzer to the specified pin without sound.
 
 
-#### Step 5：Write the Program
+ Step 5：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -728,17 +723,17 @@ Set the passive buzzer to the specified pin without sound.
 
 ![Img](media/4-15.png)
 
-#### Step 6：Test Result
+ Step 6：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then passive buzzer will play music.
 
-### 6. Steam Sensor Detects Water
+ 6. Steam Sensor Detects Water
 
 ![Img](media/4-17.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Write the Program
+ Step1: Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -775,7 +770,7 @@ Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard
 
 ![Img](media/Z37.png)
 
-#### Step2：Test Result
+ Step2：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600. Then the serial monitor will print the value read by the steam sensor.
 
@@ -783,23 +778,23 @@ Touch the metal detection area on the sensor with a moistened finger, the larger
 
 ![Img](media/Z38999.png)
 
-### 8. Steam Sensor Controls Servo and Buzzer
+ 8. Steam Sensor Controls Servo and Buzzer
 
 ![Img](media/4-18.png)
 
-### 9. Programming Steps
+ 9. Programming Steps
 
-#### Step1: Flow Chart
+ Step1: Flow Chart
 
 Set the 360° servo angle to 90°, then read the analog value of the steam sensor. When the analog value is greater than 500, the servo and Ferris wheel will rotate, and the buzzer will play music; otherwise, the the servo and Ferris wheel will not rotate, and the buzzer does not sound.
 
 ![Img](media/D57.png)
 
-#### Step2：Add **Servo** Instruction Block 
+ Step2：Add **Servo** Instruction Block 
 
 ![Img](media/42.png)
 
-#### Step3：Write the Program
+ Step3：Write the Program
 
 ①  Find building blocks
 
@@ -828,13 +823,13 @@ Set the 360° servo angle to 90°, then read the analog value of the steam senso
 
 ![Img](media/4-19.png)
 
-#### Step4：Test Result
+ Step4：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then drop water on the metal detection area of the sensor. When the analog value is greater than 500, the servo and Ferris wheel will rotate, and the buzzer will play music; otherwise, the the servo and Ferris wheel will not rotate, and the buzzer does not sound.
 
 ![4-23](media/4-23.png)
 
-### 10. Expansion Project
+ 10. Expansion Project
 
 ![Img](media/4-21.png)
 
@@ -847,11 +842,11 @@ The sample code is below：
 
 ![5-1](media/5-1.png)
 
-### 1. Overview
+ 1. Overview
 
 Rope skipping machine is used to replace the traditional rope skipping method, which frees our hands. It can not only realize forward and reverse jumps, but also change the speed of skipping ropes according to needs.
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Joystick.png)|![Img](media/360.png)| ![Img](media/Buzzer.png)|
 | :--: | :--: | :--: | :--: |
@@ -861,23 +856,23 @@ Rope skipping machine is used to replace the traditional rope skipping method, w
 
 ![Img](media/5-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
 
-### 4. Read the Value of Joystick Module
+ 4. Read the Value of Joystick Module
 
 ![Img](media/5-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the joystick module to No.3 interface, passive buzzer to No.2 interface and the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/5-dd.png)
 
-#### Step2：Add Joystick Module 
+ Step2：Add Joystick Module 
 
 ![Img](media/xin55.png)
 
@@ -891,7 +886,7 @@ Add “**Joystick Module**” Instruction Block
 
 ![Img](media/552.png)
 
-#### Step3: Description of Building Blocks
+ Step3: Description of Building Blocks
 
 ![Img](media/553.png)
 
@@ -909,7 +904,7 @@ This block is used to read the button value of the joystick module (1/0).
 
 This block is used to refresh the value of the joystick module.
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -953,7 +948,7 @@ This block is used to refresh the value of the joystick module.
 
 ![Img](media/567.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up,  then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600, then the serial monitor will print the analog and digital values read by the joystick module.
 
@@ -963,23 +958,23 @@ In the original state, the read analog values of X and Y are about 512. When mov
 
 ![Img](media/570.png)
 
-### 6. Joystick Module Controls Rope Skipping Machine
+ 6. Joystick Module Controls Rope Skipping Machine
 
 ![Img](media/5-4.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Flow Chart
+ Step1: Flow Chart
 
 Set the 360° servo angle to 90°(won't rotate), then read values of the joystick module, if the X value is greater than 512, the rope skipping machine jumps from back to front and the speed changes, otherwise it jumps from front to back. Press the joystick module, passive buzzer will play music, otherwise it won't play music.
 
 ![Img](media/D58.png)
 
-#### Step2：Add Servo and Passive Buzzer
+ Step2：Add Servo and Passive Buzzer
 
 ![Img](media/569.png)
 
-#### Step3：Write the Program
+ Step3：Write the Program
 
 ①  Find building blocks
 
@@ -1011,13 +1006,13 @@ Set the 360° servo angle to 90°(won't rotate), then read values of the joystic
 
 ![Img](media/572.png)
 
-#### Step4：Test Result
+ Step4：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, if the X value is greater than 512, the rope skipping machine jumps from back to front and the speed changes, otherwise it jumps from front to back. Press the joystick module, passive buzzer will play music, otherwise it won't play music.
 
 ![5-9](media/5-9.png)
 
-### 8. Expansion Project
+ 8. Expansion Project
 
 ![Img](media/5-7.png)
 
@@ -1031,12 +1026,12 @@ The sample code is below：
 
 ![6-1](media/6-1.png)
 
-### 1. Overview
+ 1. Overview
 
 Breaker is a machine that can level out uneven pavement. In this project, we will make one together!
 
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Button.png)|![Img](media/270.png)|![Img](media/Connection.png)|
 | :--: | :--: | :--: |:--: |
@@ -1046,27 +1041,27 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 
 ![Img](media/6-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
 
-### 4. Read the Button Value
+ 4. Read the Button Value
 
 ![Img](media/6-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, and connect the button module to No.2 interface and the 270° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/6-DD.png)
 
-#### Step2: Description of Building Blocks
+ Step2: Description of Building Blocks
 
 Please refer to Project 02: Mixer
 
-#### Step3：Write the Program
+ Step3：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -1100,19 +1095,19 @@ Please refer to Project 02: Mixer
 
 ![Img](media/37.png)
 
-#### Step4：Test Result
+ Step4：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600. The serial monitor will print the value read by the button module, when you press the button on the module, it will output a low level (0); when you release it, it will output a high level (1).
 
 ![Img](media/3777.png)
 
-### 6. Button Controls Breaker
+ 6. Button Controls Breaker
 
 ![Img](media/6-4.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Description of Building Blocks
+ Step1: Description of Building Blocks
 
 <span style="color: rgb(255, 76, 65);">This is the variable module. Let’s look at it!</span> 
 <br>
@@ -1133,17 +1128,17 @@ It is a conditional statement code executing <span style="color: rgb(255, 76, 65
 
 It is a conditional loop statement, it will loop forever if the condition in ![Img](media/39.png) is satisfied.
 
-#### Step2: Flow Chart
+ Step2: Flow Chart
 
 Set the 270° servo to 93°. When the button on the module is pressed, the long arm of the breaker will be raised; when released, it will be lowered. (press the button and then release it will complete a beat.) 
 
 ![Img](media/DD66.png)
 
-#### Step3：Add **Servo**
+ Step3：Add **Servo**
 
 ![Img](media/42.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ①  Find building blocks
 
@@ -1175,7 +1170,7 @@ Set the 270° servo to 93°. When the button on the module is pressed, the long 
 
 ![Img](media/Z1213.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up. When the button on the module is pressed, the long arm of the breaker will be raised; when released, it will be lowered. (press the button and then release it will complete a beat.) 
 
@@ -1188,11 +1183,11 @@ Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard
 
 ![7-1](media/7-1.png)
 
-### 1. Overview
+ 1. Overview
 Conveyor is a machine that can drive itself and carry goods, which is applied in complex and dangerous industrial environments to reduce the labor intensity of workers and improve work efficiency. In this project, we will work to make a small conveyor.
 
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Adapter.png)|![Img](media/Ultrasonic.png)|![Img](media/360.png)|
 | :--: | :--: | :--: | :--: |
@@ -1202,24 +1197,24 @@ Conveyor is a machine that can drive itself and carry goods, which is applied in
 
 ![Img](media/7-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
 
 
-### 4. Read the Value of Ultrasonic Sensor
+ 4. Read the Value of Ultrasonic Sensor
 
 ![Img](media/7-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, connect the ultrasonic adapter module to the No. 9 interface of the mainboard. The Vcc, Trig, Echo, and Gnd of the ultrasonic sensor are correspondingly inserted into the same pins of the ultrasonic adapter module. Connect the 360° servo to the G, V and D13 interface of the mainboard. The brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D13.
 
 ![Img](media/7-dd.png)
 
-#### Step2：Add the Ultrasonic Sensor
+ Step2：Add the Ultrasonic Sensor
 
 Tap the "Sensor" module in the "Extension" , then select "**Ultrasonic Sensor**" and click ![Img](media/781.png)to return to the programming interface.
 
@@ -1234,7 +1229,7 @@ Diagram of the **Extension** Instruction Block
 
 ![Img](media/742.png)
 
-#### Step3: Description of Building Blocks
+ Step3: Description of Building Blocks
 
 ![Img](media/743.png)
 
@@ -1242,7 +1237,7 @@ This block is used to measure distance to the specified pin, and the distance un
 
 
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ① Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -1276,19 +1271,19 @@ This block is used to measure distance to the specified pin, and the distance un
 
 ![Img](media/750.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then  click ![Img](media/38.png) in the serial monitor area to set the baud rate to 9600. Move your hand in front of the ultrasonic sensor, when you get close to the ultrasonic sensor, you can see that the displayed distance value becomes smaller, otherwise it becomes larger.
 
 ![Img](media/751.png)
 
-### 6. Ultrasonic Sensor Controls Conveyor
+ 6. Ultrasonic Sensor Controls Conveyor
 
 ![Img](media/7-4.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Description of Building Blocks
+ Step1: Description of Building Blocks
 
 ![Img](media/752.png)
 
@@ -1362,17 +1357,17 @@ This is a command block that sets strings to start scrolling in a certain direct
 
 This is the command block to set stop scrolling
 
-#### Step2: Flow Chart
+ Step2: Flow Chart
 
 Set the 360° servo to 90°, and read the distance value detected by the ultrasonic sensor. When the ultrasonic sensor detects that the distance from the object is greater than 1cm and less than 13cm, the conveyor starts to transport the object, and the OLED displays "Objects"; otherwise, the conveyor stops working and the OLED displays "No object".
 
 ![Img](media/77dd.png)
 
-#### Step3：Add **Servo**
+ Step3：Add **Servo**
 
 ![Img](media/42.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ①  Find building blocks
 
@@ -1410,7 +1405,7 @@ Set the 360° servo to 90°, and read the distance value detected by the ultraso
 
 ![Img](media/7-5.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, then put a larger object such as a sensor module on the track of the conveyor.
 
@@ -1418,7 +1413,7 @@ When the ultrasonic sensor detects that the distance from the object is greater 
 
 ![7-9](media/7-9.png)
 
-### 8. Expansion Project
+ 8. Expansion Project
 
 ![Img](media/7-7.png)
 
@@ -1433,11 +1428,11 @@ The sample code is below：
 
 ![8-1](media/8-1.png)
 
-### 1. Overview
+ 1. Overview
 
 Crane is a machine that integrates loading, transportation and unloading, which is widely used in ports, workshops, electric power as well as construction sites. In this project, we will seek to make a large crane.
 
-### 2. Components
+ 2. Components
 
 |![Img](media/kidsuno.png)|![Img](media/Receiver.png)|![Img](media/Remote.png)| 
 | :--: | :--: | :--: |
@@ -1449,23 +1444,23 @@ Crane is a machine that integrates loading, transportation and unloading, which 
 
 ![Img](media/8-2.png)
 
-### 3. Installation 
+ 3. Installation 
 
 Please refer to the following link：https://www.dropbox.com/scl/fo/dtu6zv41pd82c71yb65q8/h?rlkey=kzegu8g8jkjieaeqfjxif6kii&dl=0
 
-### 4. Read the Button Value of IR Remote Control
+ 4. Read the Button Value of IR Remote Control
 
 ![Img](media/8-3.png)
 
-### 5. Programming Steps
+ 5. Programming Steps
 
-#### Step1：Wiring Diagram
+ Step1：Wiring Diagram
 
 Connect the kidsuno mainboard and computer via a USB cable, connect the IR receiver module to the No. 2 interface of the mainboard. Then connect the 270° servo to the G, V and D12 interface, the brown wire is connected to G, the red wire is connected to V and the orange wire is connected to D12, the 360° servo to the G, V and D13 interface of the mainboard(brown wire: G, red wire: V , orange wire: D13).
 
 ![Img](media/8-dd.png)
 
-#### Step2：Add the  IR Receiver 
+ Step2：Add the  IR Receiver 
 
 Tap the "Communication" module in the "Extension" , then select " **IR Receiver** " and click ![Img](media/781.png)to return to the programming interface.
 
@@ -1479,7 +1474,7 @@ Add “**IR Receiver**”.
 
 ![Img](media/c11.png)
 
-#### Step2: Description of Building Blocks
+ Step2: Description of Building Blocks
 
 ![Img](media/c12.png)
 
@@ -1497,7 +1492,7 @@ This block is used to read received IR data.
 
 This block is used to refresh the IR received data and receive the next value.
 
-#### Step3：Write the Program
+ Step3：Write the Program
 
 ①  Drag the instruction block ![Img](media/16.png)in the **Events** module to the script area.
 
@@ -1543,7 +1538,7 @@ This block is used to refresh the IR received data and receive the next value.
 
 ![Img](media/c25.png)
 
-#### Step3：Test Result
+ Step3：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, pull out the transparent sheet at the bottom of the IR remote control, then pull out the button slot, and then put in the battery(“<span style="color: rgb(255, 76, 65);">**<span style="color: rgb(255, 76, 65); font-size: 24px;">+</span>**</span>”pole is downward )and insert into the slot.
 
@@ -1557,13 +1552,13 @@ Then  click ![Img](media/38.png) in the serial monitor area to set the baud rate
 
 ![Img](media/c28.png)
 
-### 6. IR Remote Controls Large Crane
+ 6. IR Remote Controls Large Crane
 
 ![Img](media/8-4.png)
 
-### 7. Programming Steps
+ 7. Programming Steps
 
-#### Step1: Flow Chart
+ Step1: Flow Chart
 
 |Setting|set 360° servo to 90°，270° servo rotates from 0° to180°（object raises）and OLED displays “![Img](media/ss.jpg)”pattern|
 |:--:|:--:|
@@ -1577,11 +1572,11 @@ Then  click ![Img](media/38.png) in the serial monitor area to set the baud rate
 
 ![Img](media/81213.png)
 
-#### Step3：Add **Servo**
+ Step3：Add **Servo**
 
 ![Img](media/42.png)
 
-#### Step4：Write the Program
+ Step4：Write the Program
 
 ①  Find building blocks
 
@@ -1616,7 +1611,7 @@ Then  click ![Img](media/38.png) in the serial monitor area to set the baud rate
 
 ![Img](media/C34.png)
 
-#### Step5：Test Result
+ Step5：Test Result
 
 Click![Img](media/19.png)to upload the complete program to the kidsuno mainboard and power up, the object raises and OLED displays“![Img](media/SS.jpg)” pattern. Press ![Img](media/left.png), crane turns left and OLED displays “←” pattern, press ![Img](media/right.png), crane turns right and OLED displays “→” pattern, press ![Img](media/up.png), object raises and OLED displays“↑” pattern, press ![Img](media/down.png), object lowers and OLED displays “↓” pattern.
 
