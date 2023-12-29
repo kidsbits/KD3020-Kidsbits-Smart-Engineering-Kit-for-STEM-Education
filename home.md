@@ -1,4 +1,4 @@
-# Kidsbits Smart Engineering Kit for STEM Education
+# Kidsbits Smart Engineering Kit 
 
 ![img-20230906144047](media/img-20230906144047.jpg)
 
