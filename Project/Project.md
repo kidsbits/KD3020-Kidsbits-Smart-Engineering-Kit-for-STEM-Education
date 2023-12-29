@@ -30,9 +30,9 @@ It is well known that seesaw is sought-after among children. Usually, two childr
 
 Note：The color of the building blocks is subject to the actual object.
 
-| ![](media/05fbf86735372d9494dea3b2deb980a6.jpeg) x4 <br> ![](media/97d1a6997afb148a4753c2efe57bca96.jpeg) x3 |     
-|---------------------------------------------------------|
-|    ![](media/bd486bbbd311e3f3433f4d5dba19346e.png)      |                                                        
+| ![](media/05fbf86735372d9494dea3b2deb980a6.jpeg) x4   | ![](media/97d1a6997afb148a4753c2efe57bca96.jpeg) x3 |   
+|---------------------------------------------------------|------|
+|    ![](media/bd486bbbd311e3f3433f4d5dba19346e.png)      |   |                                                     
 
 ![](media/904b8fe0111d8c19a9c9c6686ea11933.png)
 
