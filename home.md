@@ -40,7 +40,7 @@ Notably, Scratch graphical programming software allows children to learn from th
 
 
 
-# Kidsuno Mainboard Introduction
+# Kidsuno Development Board 
 
 ![Img](/media/10.png)
 
@@ -53,7 +53,7 @@ Importantly, we enable to connect it to a computer via a USB-C cable, or use a D
 - Microcontroller：ATmega328P
 - Operating Voltage：5V
 - Input Voltage：USB:5V,DC:6-12V
-- Digital I/O Pins：14(of which 6 provide PWM output
+- Digital I/O Pins：14(of which 6 provide PWM output)
 - PWM Digital I/O Pins：6
 - Analog Input Pins：8（A4 and A5 as fixed I2C）
 - DC Current per I/O Pin：20mA
