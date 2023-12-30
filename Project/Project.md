@@ -986,7 +986,7 @@ Rope skipping machine is used to replace the traditional rope skipping method, w
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | ![](media/5d8f53a23512903b09f70ace1a3287ac.png)    |       ![](media/73b2f9f48664b2a4c048162f7c686aff.png)                                            |
 
-|   ![](media/110aa81e1f84fd782c01d8346c8460aa.jpeg)   x1(3.2cm) <br> ![](media/a96833d0d63b2eb29c5d91281a618273.jpeg)  x1| ![](media/110aa81e1f84fd782c01d8346c8460aa.jpeg)   x2(2.4cm) <br> ![](media/ebf324927889bce98c2f6b9b4c75869c.jpeg) x1(11 holes) |    
+|   ![](media/110aa81e1f84fd782c01d8346c8460aa.jpeg)   x1(3.2cm) <br> ![](media/a96833d0d63b2eb29c5d91281a618273.jpeg)  x1| ![](media/110aa81e1f84fd782c01d8346c8460aa.jpeg)   x2(2.4cm) <br> ![](media/ebf324927889bce98c2f6b9b4c75869c.jpeg)<br>x1(11 holes) |    
 |----------------------|-------------------------|
 |![](media/f74a2916ddaaf6ac6a14b4dd47429588.png)||
 
