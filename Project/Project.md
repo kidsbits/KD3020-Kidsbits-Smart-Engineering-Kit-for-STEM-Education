@@ -1925,7 +1925,7 @@ Crane is a machine that integrates loading, transportation and unloading, which 
 | Initialize the angle first when installing the 270°servo                                                                                                                                              |                                                   |   
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | wiringDiagram: ![](media/b8de730a788ffe907de151522b0ca942.png)                                                                                                                                        |  ![](media/5f8e559eee11eb13634f333b98b66427.jpeg) |   |
-| Code for initializing the servo： ![](media/sevro.png) <br>Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard. |                                                   |   |
+| Code for initializing the servo：<br> ![](media/sevro.png) <br>Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard. |                                                   |   |
 | ![](media/13caff8219d99bb362d24a83931aaa91.png)                                                                                                                                                       | ![](media/38ff17ff2ab511a1c1cd8c458639a497.png)   |   |
 
 | ![](media/0507b0054c774a33cad959e918b0c561.jpeg)  x2  ![](media/d5f385f746202238eb5f98e7e89685d4.png) x1 | 
