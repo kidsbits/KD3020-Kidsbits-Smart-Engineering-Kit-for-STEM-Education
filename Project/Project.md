@@ -1241,7 +1241,7 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 |--------------------------------------------------------|-----|
 |![](media/99bbc75757c1f87098269471ec531d22.png)|![](media/bc1b523182e81d3cbf49ee0cf9511d07.png)|
 
-|   ![](media/aa8bd1d8d51da31193b46761a1d049a5.jpeg) x2 |    ![](media/b3a5c0a8c09d4f374caf904b5de491ad.jpeg)x1(9.6cm) |
+|   ![](media/aa8bd1d8d51da31193b46761a1d049a5.jpeg) x2 |    ![](media/b3a5c0a8c09d4f374caf904b5de491ad.jpeg)<br>x1(9.6cm) |
 |----------------------------------------------------|-----------------------------------------------------|
 | ![](media/ccaeb39cfcb75d009b0bccfe388ee6ed.png)    |                                                     |
 
@@ -1263,7 +1263,7 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 |-----------------------------------------------------------------|----------------------------------------------------|
 |    ![](media/54beeb8557be9fea419a6a3cefe9e0c9.png) |                                                    |
 
-|   ![](media/79748c52781f6a5bd799d04b66227bb5.jpeg)  x1  ![](media/aa8bd1d8d51da31193b46761a1d049a5.jpeg) x3 ![](media/67bd0461f810b2426d5e33e68261ee17.jpeg)  x1|   ![](media/19220542881a3831636cafe9c17fdbc4.jpeg) x1(2.4cm) <br> ![](media/2be6781c62ff7b5fe36ff2646e4b9620.jpeg) x1(4.8cm) |    
+|   ![](media/79748c52781f6a5bd799d04b66227bb5.jpeg)  x1 <br> ![](media/aa8bd1d8d51da31193b46761a1d049a5.jpeg) x3 <br> ![](media/67bd0461f810b2426d5e33e68261ee17.jpeg)  x1|   ![](media/19220542881a3831636cafe9c17fdbc4.jpeg) x1(2.4cm) <br> ![](media/2be6781c62ff7b5fe36ff2646e4b9620.jpeg) x1(4.8cm) |    
 |--------------------------------------------------------|--------------------------------------------------------------|
 |  ![](media/6dafe0ab272006ab58285d58a8ad07fe.png)       |    ![](media/8a79862bf8c2fb2ba4cb87e7bfbc6275.jpeg)          |                                                       |                                                              |                                                        |   |
 
@@ -1324,7 +1324,7 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 | Initialize the angle first when installing the 270°servo                                                                                                                                                                                              |                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | Wiring Diagram： ![](media/00653542fb5fde2c3e691b7685b1e569.png)                                                                                                                                                                                      |   ![](media/baa385cb501126d6927de95cf5c7f5d7.png) |
-| Code for initializing the servo： ![](media/sevro.png) Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard. ![](media/ef14a0b23f64927ac5ecf2e202fc1d07.png) |                                                   |
+| Code for initializing the servo： ![](media/sevro.png) <br> Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard.<br> ![](media/ef14a0b23f64927ac5ecf2e202fc1d07.png) |                                                   |
 
 |    ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x2 |   ![](media/cb37205b45ce8b1681bbdb7335a94eb6.png) x1 |               
 |--------------------------------------------------------|------------------------------------------------------|
