@@ -1324,7 +1324,7 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 | Initialize the angle first when installing the 270°servo                                                                                                                                                                                              |                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | Wiring Diagram： ![](media/00653542fb5fde2c3e691b7685b1e569.png)                                                                                                                                                                                      |   ![](media/baa385cb501126d6927de95cf5c7f5d7.png) |
-| Code for initializing the servo： ![](media/sevro.png) <br> Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard.<br> ![](media/ef14a0b23f64927ac5ecf2e202fc1d07.png) |                                                   |
+| Code for initializing the servo：<br> ![](media/sevro.png) <br> Note: After uploading the code to initialize the 270° servo angle, click the reset button on the kidsuno mainboard.<br> ![](media/ef14a0b23f64927ac5ecf2e202fc1d07.png) |                                                   |
 
 |    ![](media/0507b0054c774a33cad959e918b0c561.jpeg) x2 |   ![](media/cb37205b45ce8b1681bbdb7335a94eb6.png) x1 |               
 |--------------------------------------------------------|------------------------------------------------------|
@@ -1334,7 +1334,7 @@ Breaker is a machine that can level out uneven pavement. In this project, we wil
 |------------------------------------------|--------------------------------------------|
 |![](media/9f9bde574b225089d354ccc05ebace63.jpeg)|![](media/3d25d1d5e0dc7a501246d18dcef55fe3.png)|
 
-|   ![](media/6dca5dcac33b1448d4ab82e454f3dec9.png)       |   ![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) |    ![](media/872b38d9bb9423d4a019775930e38b31.jpeg) x1(8cm)|           
+|   ![](media/6dca5dcac33b1448d4ab82e454f3dec9.png)       |   ![](media/4ed96f5218358d4d7ec98bfb0afc968f.jpeg) |    ![](media/872b38d9bb9423d4a019775930e38b31.jpeg)<br> x1(8cm)|           
 |---------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
 | ![](media/3d5bb8621dea30ad7c2ef76e8586543e.jpeg) |    ![](media/45aff47335851366a0e5456d9d299a16.jpeg)                                                |                                                                                                               |
 
