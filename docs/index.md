@@ -1,8 +1,9 @@
-# Kidsbits Smart Engineering Kit for STEM Education
+
+**Kidsbits Smart Engineering Kit for STEM Education**
 
 ![img-20230906144047](media/img-20230906144047.jpg)
 
-## 1. Product Introduction
+# Product Introduction
 
 Based on Arduino and compatible with Lego series, smart engineering is a kidsbits STEM project committed to programming education for children aged 9-12. It integrates multiple sensors and modules such as a steam sensor, a rotary potentiometer as well as an ultrasonic adapter. On this very note, it is easy for you to DIY some intriguing projects including a mixer, a rope skipping machine, a breaker, a conveyor and a large crane.
 
@@ -10,7 +11,7 @@ Notably, Scratch graphical programming software allows children to learn from th
 
 
 
-## 2. Kit:
+# Kit
 | # | Component | QTY | Picture |
 | :--: | :--: | :--: |:--: |
 | 1 | Kidsuno Mainboard | 1 | ![Img](./media/kidsuno.png) |
@@ -34,20 +35,24 @@ Notably, Scratch graphical programming software allows children to learn from th
 | 19 | Wheel | 4 |![Img](./media/Wheel.png)|
 | 20 | Wire | 1 |![Img](./media/Wire.png)|
 
+# Download link
 
-## 3. Tutorial：
+- [Codes](Codes.zip)
 
-- [1.Mainboard_Introduction](1.Mainboard_Introduction/kidsuno_Mainboard_Introduction.md)
+- [Installation_Steps](Installation_Steps.zip)
+
+# Mainboard Introduction
+
+[Mainboard_Introduction](Mainboard_Introduction/kidsuno_Mainboard_Introduction.md)
+
+# Development Environment Configuration
+
+[Development_Environment_Configuration](Development_Environment_Configuration/KidsBlock_Development_Environment_Configuration.md)
+
+# Projects
+
+[Projects](Projects/Projects.md)
 
 
-- [2.Development_Environment_Configuration](2.Development_Environment_Configuration/KidsBlock_Development_Environment_Configuration.md)
-
-
-- [3.Projects](3.Projects/3.Projects.md)
-
-
-- [4.Codes](4.Codes.zip)
-
-- [5.Installation_Steps](5.Installation_Steps.zip)
 
 
