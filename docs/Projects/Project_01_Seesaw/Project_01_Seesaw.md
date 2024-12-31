@@ -23,7 +23,78 @@ It is well known that seesaw is sought-after among children. Usually, two childr
 
 ## 4. Installation 
 
-Please refer to the following link：[https://kd.kidsbits.cc/KD3020](https://kd.kidsbits.cc/KD3020)
+**Preparation：**
+
+![Img](./media/img-20241230140343.png)
+
+**Step1:**
+
+![Img](./media/img-20241230140506.png)
+
+**Step2:**
+
+![Img](./media/img-20241230140619.png)
+
+**Step3:**
+
+![Img](./media/img-20241230140645.png)
+
+**Step4:**
+
+![Img](./media/img-20241230140710.png)
+
+**Step5:**
+
+![Img](./media/img-20241230140752.png)
+
+**Step6:**
+
+![Img](./media/img-20241230140823.png)
+
+**Step7:**
+
+![Img](./media/img-20241230140856.png)
+
+**Step8:**
+
+![Img](./media/img-20241230140921.png)
+
+**Step9:**
+
+![Img](./media/img-20241230141245.png)
+
+**Step10:**
+
+![Img](./media/img-20241230141314.png)
+
+**Step11:**
+
+![Img](./media/img-20241230141358.png)
+
+**Step12:**
+
+![Img](./media/img-20241230141439.png)
+
+**Step13:**
+
+![Img](./media/img-20241230141506.png)
+
+**Step14:**
+
+![Img](./media/img-20241230141537.png)
+
+**Step15:**
+
+![Img](./media/img-20241230141607.png)
+
+**Step16:**
+
+![Img](./media/img-20241230141639.png)
+
+**Complete:**
+
+![Img](./media/img-20241230141702.png)
+
 
 ## 5. Programming Steps
 

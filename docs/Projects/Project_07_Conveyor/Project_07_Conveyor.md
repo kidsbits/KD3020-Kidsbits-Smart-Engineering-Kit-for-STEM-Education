@@ -18,7 +18,73 @@ Conveyor is a machine that can drive itself and carry goods, which is applied in
 
 ## 3. Installation 
 
-Please refer to the following link：[https://kd.kidsbits.cc/KD3020](https://kd.kidsbits.cc/KD3020)
+**Preparation：**
+
+![Img](./media/img-20241230155243.png)
+
+**Step1:**
+
+![Img](./media/img-20241230155559.png)
+
+**Step2:**
+
+![Img](./media/img-20241230155617.png)
+
+**Step3:**
+
+![Img](./media/img-20241230155639.png)
+
+**Step4:**
+
+![Img](./media/img-20241230155700.png)
+
+**Step5:**
+
+![Img](./media/img-20241230155720.png)
+
+**Step6:**
+
+![Img](./media/img-20241230155737.png)
+
+**Step7:**
+
+![Img](./media/img-20241230155757.png)
+
+**Step8:**
+
+![Img](./media/img-20241230160352.png)
+
+**Step9:**
+
+![Img](./media/img-20241230160409.png)
+
+**Step10:**
+
+![Img](./media/img-20241230160423.png)
+
+**Step11:**
+
+![Img](./media/img-20241230161145.png)
+
+**Step12:**
+
+![Img](./media/img-20241230161204.png)
+
+**Step13:**
+
+![Img](./media/img-20241230161223.png)
+
+**Step14:**
+
+![Img](./media/img-20241230161239.png)
+
+**Step15:**
+
+![Img](./media/img-20241230161259.png)
+
+**Complete:**
+
+![Img](./media/img-20241230161316.png)
 
 
 ## 4. Read the Value of Ultrasonic Sensor

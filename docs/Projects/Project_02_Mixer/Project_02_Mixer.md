@@ -19,7 +19,73 @@ Mixer is a kind of construction engineering machinery, which is mainly used for 
 
 ## 3. Installation 
 
-Please refer to the following link：[https://kd.kidsbits.cc/KD3020](https://kd.kidsbits.cc/KD3020)
+**Preparation：**
+
+![Img](./media/img-20241230142149.png)
+
+**Step1:**
+
+![Img](./media/img-20241230142231.png)
+
+**Step2:**
+
+![Img](./media/img-20241230142252.png)
+
+**Step3:**
+
+![Img](./media/img-20241230142402.png)
+
+**Step4:**
+
+![Img](./media/img-20241230142422.png)
+
+**Step5:**
+
+![Img](./media/img-20241230142442.png)
+
+**Step6:**
+
+![Img](./media/img-20241230142505.png)
+
+**Step7:**
+
+![Img](./media/img-20241230142526.png)
+
+**Step8:**
+
+![Img](./media/img-20241230142541.png)
+
+**Step9:**
+
+![Img](./media/img-20241230142555.png)
+
+**Step10:**
+
+![Img](./media/img-20241230142613.png)
+
+**Step11:**
+
+![Img](./media/img-20241230142625.png)
+
+**Step12:**
+
+![Img](./media/img-20241230142651.png)
+
+**Step13:**
+
+![Img](./media/img-20241230142713.png)
+
+**Step14:**
+
+![Img](./media/img-20241230142738.png)
+
+**Step15:**
+
+![Img](./media/img-20241230142801.png)
+
+**Complete:**
+
+![Img](./media/img-20241230142821.png)
 
 ## 4. Read the Value of Digital Capacitive Touch Sensor
 
